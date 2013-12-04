@@ -1,6 +1,6 @@
 <?php $form=$this->beginWidget('bootstrap.widgets.TbActiveForm',array(
 	'id'=>'marca-tv-form',
-    'enableAjaxValidation'=>true,
+    #'enableAjaxValidation'=>true,
     'enableClientValidation' => true,
 )); ?>
 
